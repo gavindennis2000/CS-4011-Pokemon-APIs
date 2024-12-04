@@ -1,0 +1,1 @@
+React webpage for CS 4011 API project. Takes positive integer as input from user, uses input for API calls to communicate with PokeAPI website, organizes JSON data into a digital Pokemon card for user with Pokemon stats.
